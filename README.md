@@ -15,10 +15,6 @@ This project is a Python script that automates the process of scraping eBook pag
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/codeblech/aakash.git
-    ```
-
 2. Install the required dependencies:
 
 3. Download the Chrome WebDriver and place it in the project directory.
