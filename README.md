@@ -16,7 +16,7 @@ This project is a Python script that automates the process of scraping eBook pag
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/codeblech/aakash.git
     ```
 
 2. Install the required dependencies:
