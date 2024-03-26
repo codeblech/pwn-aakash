@@ -1,13 +1,10 @@
 # pwn-aakaash
 downloading *"un-downloadable"* Aakash modules (Physics, Chemistry, Maths) or class 11 and 12
-
-# Project Name
-
-Aakash eBook Scraper
+(Aakash eBook Scraper)
 
 ## Description
 
-This project is a Python script that automates the process of scraping eBook pages from the Aakash digital platform using Selenium. It captures screenshots of each page and saves them locally for offline reading.
+This project is a Python script that automates the process of scraping eBook pages from the Aakash digital platform using Selenium. It captures screenshots of each page and saves them locally.
 
 ## Dependencies
 - Selenium
