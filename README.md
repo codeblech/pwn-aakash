@@ -1,5 +1,5 @@
 # pwn-aakaash
-downloading *"un-downloadable"* Aakash modules (Physics, Chemistry, Maths) or class 11 and 12
+downloading *"un-downloadable"* Aakash modules (Physics, Chemistry, Maths) for class 11 and 12
 (Aakash eBook Scraper)
 
 ## Description
